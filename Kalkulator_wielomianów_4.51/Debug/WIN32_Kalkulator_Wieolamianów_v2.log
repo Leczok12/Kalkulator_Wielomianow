@@ -1,6 +1,0 @@
-﻿  WIN32_Kalkulator_Wieolamianów_v2.cpp
-C:\Users\kamil\Desktop\projekty cpp\WIN32_Kalkulator_Wieolamianów_v2\wyliczanie.h(25,6): warning C4309: "domyślny argument": obcięcie stałej wartości
-C:\Users\kamil\Desktop\projekty cpp\WIN32_Kalkulator_Wieolamianów_v2\superparabole.h(35,9): warning C4101: "stary_punkt": lokalna zmienna, do której nie istnieje odwołanie
-C:\Users\kamil\Desktop\projekty cpp\WIN32_Kalkulator_Wieolamianów_v2\WIN32_Kalkulator_Wieolamianów_v2.cpp(12,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
-C:\Users\kamil\Desktop\projekty cpp\WIN32_Kalkulator_Wieolamianów_v2\WIN32_Kalkulator_Wieolamianów_v2.cpp(226): warning C4715: "WndProc”: niewszystkie ścieżki kodu zwracają wartość
-  WIN32_Kalkulator_Wieolamianów_v2.vcxproj -> C:\Users\kamil\Desktop\projekty cpp\WIN32_Kalkulator_Wieolamianów_v2\Debug\WIN32_Kalkulator_Wieolamianów_v2.exe
