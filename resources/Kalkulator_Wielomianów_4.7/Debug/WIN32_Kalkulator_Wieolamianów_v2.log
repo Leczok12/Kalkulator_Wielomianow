@@ -1,0 +1,4 @@
+﻿  WIN32_Kalkulator_Wieolamianów_v2.cpp
+C:\Users\kamil\Desktop\projekty cpp\WIN32_Kalkulator_Wieolamianów_v2\WIN32_Kalkulator_Wieolamianów_v2.cpp(20,19): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kamil\Desktop\projekty cpp\WIN32_Kalkulator_Wieolamianów_v2\WIN32_Kalkulator_Wieolamianów_v2.cpp(277): warning C4715: "WndProc”: niewszystkie ścieżki kodu zwracają wartość
+  WIN32_Kalkulator_Wieolamianów_v2.vcxproj -> C:\Users\kamil\Desktop\projekty cpp\WIN32_Kalkulator_Wieolamianów_v2\Debug\WIN32_Kalkulator_Wieolamianów_v2.exe
